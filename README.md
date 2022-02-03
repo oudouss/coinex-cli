@@ -27,7 +27,7 @@ coinex key show
 coinex key remove
 
 # Crypto Check Commands
-coindex check price
+coinex check price
 
 # Check Specific Coins (default: BTN,ETH,XRP)
 coinex check --coin=BTC,ETH
